@@ -5,5 +5,5 @@ document.getElementById('logo').src =
 
 function imgchange2() {
 document.getElementById('logo').src = 
-'./image/josai.png';
+'./image/jousai.png';
 }
