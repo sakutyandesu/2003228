@@ -1,9 +1,9 @@
 function imgchange1() {
 document.getElementById('logo').src = 
-'./image/nanamin2.png';
+'./image/josai.png';
 }
 
 function imgchange2() {
 document.getElementById('logo').src = 
-'./image/nanamin1.png';
+'./image/josai1.jpg';
 }
