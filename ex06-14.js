@@ -1,2 +1,10 @@
-function henkou1(){ document.getElementById('logo3').src = './image/haru.jpg';  setTimeout("henkou2()",3000);}
-function henkou2(){ document.getElementById('logo3').src = './image/yuki.jpg';}
+function page(){
+  document.getElementById('1').src =
+    './image/haru.jpg';
+}
+
+function page2(){
+    document.getElementById('1').src =
+    './image/yuki.jpg';
+}
+
